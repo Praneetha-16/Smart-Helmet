@@ -47,12 +47,4 @@ This project can be extended with **GPS + GSM** modules for accident location tr
 3. Upload to Arduino.  
 4. Test with switch, alcohol sensor, and vibration sensor.  
 
----
 
-## 📷 Demo (Optional)
-*(Add photos/videos of helmet with sensors attached)*
-
----
-
-## 📄 License
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
